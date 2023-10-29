@@ -1,5 +1,5 @@
 # dark_mode_clock #source code maded by me
-
+//
 import { useState, useRef, useEffect } from 'react';
 import { Animated, Easing, View, Text, TouchableWithoutFeedback, Image, StyleSheet, StatusBar } from 'react-native'
 import React from 'react'
